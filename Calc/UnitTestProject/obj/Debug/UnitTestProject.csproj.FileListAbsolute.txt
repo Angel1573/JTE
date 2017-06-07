@@ -1,0 +1,7 @@
+c:\Users\Mariska\documents\visual studio 2013\Projects\Calc\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\Users\Mariska\documents\visual studio 2013\Projects\Calc\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\Users\Mariska\documents\visual studio 2013\Projects\Calc\UnitTestProject\bin\Debug\Calc.exe
+c:\Users\Mariska\documents\visual studio 2013\Projects\Calc\UnitTestProject\bin\Debug\Calc.pdb
+c:\Users\Mariska\documents\visual studio 2013\Projects\Calc\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\Users\Mariska\documents\visual studio 2013\Projects\Calc\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\Users\Mariska\documents\visual studio 2013\Projects\Calc\UnitTestProject\obj\Debug\UnitTestProject.pdb

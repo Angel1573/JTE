@@ -6,3 +6,6 @@ c:\users\mariska\documents\visual studio 2013\Projects\Calc\Calc\obj\Debug\Calc.
 c:\users\mariska\documents\visual studio 2013\Projects\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
 c:\users\mariska\documents\visual studio 2013\Projects\Calc\Calc\obj\Debug\Calc.exe
 c:\users\mariska\documents\visual studio 2013\Projects\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Mariska\Documents\GitHub\JTE\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Mariska\Documents\GitHub\JTE\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Mariska\Documents\GitHub\JTE\Calc\Calc\obj\Debug\Calc.pdb
